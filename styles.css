@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+.logo_html {
+  display: flex;
+  font-size: 60px;
+  margin-right: 5px;
+}
+.puntitos {
+  font-size: 40px;
+}
+body {
+  margin: auto;
+  width: 700px;
+  padding: 50px;
+  background-color: black;
+}
+img {
+  width: 100%;
+}
+main {
+  background-color: white;
+}
+footer {
+  padding: 10px;
+}
+.iconos_1 {
+  font-size: 30px;
+}
+.fa-bookmark {
+  float: right;
+}
+.html_ubi {
+  font-size: 20px;
+  margin-left: 5px;
+}
